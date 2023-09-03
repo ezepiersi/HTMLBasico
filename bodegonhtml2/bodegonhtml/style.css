@@ -1,0 +1,68 @@
+
+.estilo-titulo{
+	text-align: center;
+    background-image: url('./images/vinobanner.jpg');
+	background-size: cover;
+	display: flex;
+	color:hsl(20deg 45% 80%);
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 80px;
+	align-items: center;
+	justify-content: center;
+	height: 15rem;
+}
+
+
+body{
+	background-image: url('images/logo3.jpg');
+	height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+	opacity: 100 auto;
+	
+	
+}
+
+.menu-ejecutivo{
+	border: 5px double rgb(103, 63, 10);
+	margin: 50px;
+	text-align: center;
+	
+}
+
+.menu{
+
+
+}
+
+.logo{
+	width: 35px;
+	height: 35px;
+
+}
+
+
+
+footer{
+	color: rgb(227, 196, 181);
+	margin-top: 20%;
+	background-color: rgb(90, 54, 6);
+	background-size: cover;
+
+}
+
+#marca-registrada{
+	text-align: right;
+	font-size: 15px;
+}
+
+.precio{
+text-align: right;
+}
+
+a{
+	background-color: rgb(227, 196, 181);
+	color: rgb(90, 54, 6);
+}
